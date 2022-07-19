@@ -1,0 +1,7 @@
+type BankAccount{
+    name: String!
+    idNum:ID!
+    currency: Currency!
+    amount:Float
+
+}
